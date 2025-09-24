@@ -42,4 +42,4 @@ The presentation may be in Powerpoint or from your website.
 
 The final presentation of your case is on a website (see work from previous years). Your website is due online two weeks after your presentation in class in order to provide time to incorporate suggestions and critique during and after the presentation.
 
-[Examples of student projects](http://architecture.mit.edu/class/nature/projects.html?y=2012)
+{{% resource_link "61fb2ef2-45c9-45fb-928c-5c36123facac" "Examples of student projects" %}}
