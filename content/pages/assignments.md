@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on the journals students keep throughout
   the semester, the research paper and final presentation, and examples of student
   work.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -42,4 +44,4 @@ The presentation may be in Powerpoint or from your website.
 
 The final presentation of your case is on a website (see work from previous years). Your website is due online two weeks after your presentation in class in order to provide time to incorporate suggestions and critique during and after the presentation.
 
-{{% resource_link "61fb2ef2-45c9-45fb-928c-5c36123facac" "Examples of student projects" %}}
+[Examples of student projects](http://architecture.mit.edu/class/nature/projects.html?y=2012)

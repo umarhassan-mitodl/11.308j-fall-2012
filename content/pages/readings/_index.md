@@ -25,7 +25,7 @@ Ideas of Nature and City Design and Development
 
 Williams, Raymond. "Ideas of Nature." In *Problems in Materialism and Culture*. Verso, 1985, pp. 67–85. ISBN: 9780860917298.
 
-Spirn, Anne Whiston. "Ecological Urbanism." In *Resilience in Ecology and Urban Design: Linking Theory and Practice for Sustainable Cities*. Edited by M. L. Cadenasso Pickett, and Brian McGrath. Springer, 2013. ISBN: 9789400753433. \[Preview with {{% resource_link "91450e16-a045-4ecd-867c-72f541b22620" "Google Books" %}}\]
+Spirn, Anne Whiston. "Ecological Urbanism." In *Resilience in Ecology and Urban Design: Linking Theory and Practice for Sustainable Cities*. Edited by M. L. Cadenasso Pickett, and Brian McGrath. Springer, 2013. ISBN: 9789400753433. \[Preview with [Google Books](http://books.google.com/books?id=8W1HAAAAQBAJ&pg=PA29=onepage)\]
 
 {{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading1" %}}
 
@@ -49,13 +49,13 @@ Flyvbjerg, Bent. "The Power of Example." In *Making Social Science Matter: Why S
 
 In addition, select one of the following two sets of readings:
 
-Hise, Greg, and William Deverell. *Eden By Design: The 1930 Olmsted-Bartholomew Plan for the Los Angeles Region*. University of California, 2000. ISBN: 9780520224155. \[Preview with {{% resource_link "30c2682c-41d7-4743-8eed-949c36be0ee7" "Google Books" %}}\]
+Hise, Greg, and William Deverell. *Eden By Design: The 1930 Olmsted-Bartholomew Plan for the Los Angeles Region*. University of California, 2000. ISBN: 9780520224155. \[Preview with [Google Books](http://books.google.com/books?id=CYo2YdguU88C&pg=PAfrontcover)\]
 
 Or
 
-{{% resource_link "3c90a316-85c9-4079-be9d-45af38b6291e" "Philadelphia: Philadelphia Water Department. *Long-term Combined Sewer Overflow Program: Program Summary*." %}}
+[Philadelphia: Philadelphia Water Department. *Long-term Combined Sewer Overflow Program: Program Summary*.](https://water.phila.gov/pool/files/GCCW_AmendedJune2011_HIGHRES.pdf)
 
-Madden, Sarah. {{% resource_link "b82f901d-996d-495a-baa6-b09cc635ebf9" "*Choosing Green Over Gray: Philadelphia's Innovative Stormwater Infrastructure Plan*" %}}. MIT MCP Thesis, 2010.
+Madden, Sarah. [*Choosing Green Over Gray: Philadelphia's Innovative Stormwater Infrastructure Plan*](http://dspace.mit.edu/handle/1721.1/59750). MIT MCP Thesis, 2010.
 
 {{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading3" %}}
 
@@ -67,11 +67,11 @@ Urban Nature and City Design: Practice, Theory, and Tradition II
 
 Spirn, Anne Whiston. "Restoring Mill Creek: Landscape Literacy, Environmental History, and City Planning and Design." In *Nature's Entrepot: Philadelphia's Urban Sphere and Its Environmental Thresholds*. Edited by Brian Black, and Michael Chiarappa. University of Pittsburgh Press, 2012. ISBN: 9780822944171.
 
-———. {{% resource_link "78f7fef8-d1da-4094-8131-11cd7b59178e" "The Mill Creek Project" %}}.
+———. [The Mill Creek Project](https://web.mit.edu/4.243j/www/wplp/p-ccpsms-mcproject.html).
 
-———. {{% resource_link "6294430d-b26d-43ec-a6b1-99264753cd75" "*The West Philadelphia Landscape Plan: A Framework for Action*" %}}. The West Philadelphia Landscape Plan, 1991.
+———. [*The West Philadelphia Landscape Plan: A Framework for Action*](https://wplp.net/library/2012/projects/landscapeplan/index.html). The West Philadelphia Landscape Plan, 1991.
 
-{{% resource_link "233732c0-77e1-4333-8383-90540a797fe2" "West Philadelphia Landscape Project website" %}}.
+[West Philadelphia Landscape Project website](http://www.wplp.net/).
 
 {{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading4" %}}
 
@@ -97,7 +97,7 @@ Or
 
 Dunne, Thomas, and Luna Leopold. *Water in Environmental Planning*. W. H. Freeman & Company Limited, 1978. ISBN: 9780716700791.
 
-{{% resource_link "8020cbfd-3a26-43ef-aa14-b4bc3cdd508a" "Tree People" %}} ({{% resource_link "c3d51984-fd34-44ef-acf1-d8085192a5e1" "\"Rainwater as a Resource.\"" %}} in particular).
+[Tree People](http://treepeople.org/) (["Rainwater as a Resource."](https://www.treepeople.org/wp-content/uploads/2021/05/rainwater-as-a-resource.pdf) in particular).
 
 {{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading6" %}}
 
@@ -109,19 +109,19 @@ Air and the Urban Biome
 
 Select one of the two sets of readings below.
 
-Arnfield, A. John. "{{% resource_link "d189d4ad-8236-4b1e-85ec-b06649e64b42" "Two Decades of Urban Climate Research: A Review of Turbulence, Exchanges of Energy and Water, and the Urban Heat Island" %}}." *International Journal of Climatology* 23, no. 1 (2003): 1–26.
+Arnfield, A. John. "[Two Decades of Urban Climate Research: A Review of Turbulence, Exchanges of Energy and Water, and the Urban Heat Island](http://dx.doi.org/10.1002/joc.859)." *International Journal of Climatology* 23, no. 1 (2003): 1–26.
 
-Spirn, Anne Whiston. {{% resource_link "01613693-25fe-44ce-9c86-36d7d1bedfa0" "\"*Air Quality at Street Level: Strategies for Urban Design*.\" (PDF - 3.06MB)" %}} 1986.
+Spirn, Anne Whiston. ["*Air Quality at Street Level: Strategies for Urban Design*." (PDF - 3.06MB)](https://annewhistonspirn.com/sharefiles/Spirn-Air-Quality-1986.pdf) 1986.
 
 Or
 
-Pickett, S. T. A., and M. L. Cadenasso. "{{% resource_link "156edf4a-7266-4d21-a463-e6e4c23b3035" "Linking Ecological and Built Components of Urban Mosaics: An Open Cycle of Ecological Design" %}}." *Journal of Ecology* 96, no. 1 (2008): 8–12.
+Pickett, S. T. A., and M. L. Cadenasso. "[Linking Ecological and Built Components of Urban Mosaics: An Open Cycle of Ecological Design](http://dx.doi.org/10.1111/j.1365-2745.2007.01310.x)." *Journal of Ecology* 96, no. 1 (2008): 8–12.
 
-Felson, Alexander, and Steward Pickett. "{{% resource_link "8749cccf-ec8f-485a-a112-cb8e12ce2b41" "Designed Experiments: New Approaches to Studying Urban Ecosystems" %}}." *Frontiers in Ecology and Environment* 3, no. 10 (2005): 549–56.
+Felson, Alexander, and Steward Pickett. "[Designed Experiments: New Approaches to Studying Urban Ecosystems](http://dx.doi.org/10.1890/1540-9295(2005)003[0549:DENATS]2.0.CO;2)." *Frontiers in Ecology and Environment* 3, no. 10 (2005): 549–56.
 
-Pickett, S. T. A., M. L. Cadenasso, et al. "{{% resource_link "7c62c4ee-1fac-411f-ae42-8f7b978fb03a" "Resilient Cities: Meaning, Models and Metaphor for Integrating the Ecological, Socio-economic, and Planning Realms" %}}." *Landscape and Urban Planning* 69, no. 4 (2004): 369–84.
+Pickett, S. T. A., M. L. Cadenasso, et al. "[Resilient Cities: Meaning, Models and Metaphor for Integrating the Ecological, Socio-economic, and Planning Realms](http://dx.doi.org/10.1016/j.landurbplan.2003.10.035)." *Landscape and Urban Planning* 69, no. 4 (2004): 369–84.
 
-{{% resource_link "e23b809b-a0be-4e0b-9d51-2e67cb25a441" "Casey Trees website" %}}
+[Casey Trees website](http://www.caseytrees.org/)
 
 {{% resource_link "4a1bc61d-149e-e4da-ab5f-f7bda7f8d1de" "\[Further Reading\]" "#Further_Reading7" %}}
 
