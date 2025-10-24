@@ -23,7 +23,7 @@
     "website": "11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012"
   },
   "course_title": "Advanced Seminar: Urban Nature and City Design",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course will explore the mutual influences of ideas of nature, theories of city design and planning, and practices of urban design, construction, and management. We will investigate how natural processes shape urban landscapes (from the scale of street corner to region) and how to intervene strategically in those processes in order to achieve certain goals. We will examine cases of cities that adapted successfully to natural processes and those that did not. Students will then have the opportunity to research a case of their choice and to present their findings for discussion. The subject may be historical or an an example of contemporary theory and practice.",
   "department_numbers": [
     "11",
@@ -35,7 +35,6 @@
     "content": "02f0a864-4125-2781-e3fe-5e84a59148f4",
     "website": "11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
